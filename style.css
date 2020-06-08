@@ -63,3 +63,10 @@ h2{
   color: #FA9EC1;
 	margin: 0 0 30px 30px;
 }
+
+/* Footer */
+footer{
+	text-align: center;
+	font-size: 1.15rem
+
+}
